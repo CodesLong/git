@@ -1,0 +1,18 @@
+git:
+源代码版本控制管理工具
+1 流程
+    git 仓库        暂存区          工作目录（项目）
+     存放项目      临时存放的文件    工作目录，用git管理
+
+
+2 使用：
+     * 配置 
+     git config --global user.name  
+    git config --global user.email
+
+    * git init 初始化git仓库
+    * git status 查看文件状态
+    * git add  文件名   将文件放到暂存区
+    * git commit -m '说明' 将暂存区的文件提交到仓库
+    * git log 查看提交记录
+    * git checkout 撤销提交
