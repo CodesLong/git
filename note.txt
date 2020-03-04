@@ -1,4 +1,10 @@
 ﻿git:
+	gitee上创建好仓库后，我们就可以关联这个仓库了：
+	git remote add origin git@gitee.com:le1024/mylearngit.git
+	远程关联删除: git remote rm origin
+	我们查看一下远程仓库信息 git remote -v
+	推送到GitHub，注意远程库的名字是github，不是之前的origin:git push github master
+
 源代码版本控制管理工具
 1 流程
     git 仓库        暂存区          工作目录（项目）
