@@ -5,7 +5,7 @@
 	我们查看一下远程仓库信息 git remote -v
 	推送到GitHub，注意远程库的名字是github，不是之前的origin:git push github master
 
-源代码版本控制管理工具
+源代码版本控制管理工具 
 1 流程
     git 仓库        暂存区          工作目录（项目）
      存放项目      临时存放的文件    工作目录，用git管理
