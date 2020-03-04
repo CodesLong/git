@@ -10,7 +10,7 @@
      git config --global user.name  
     git config --global user.email
 
-    * git init 初始化git仓库
+    * git init 初始化git仓库 
     * git status 查看文件状态
     * git add  文件名   将文件放到暂存区
     * git commit -m '说明' 将暂存区的文件提交到仓库
