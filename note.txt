@@ -1,4 +1,4 @@
-git:
+﻿git:
 源代码版本控制管理工具
 1 流程
     git 仓库        暂存区          工作目录（项目）
@@ -15,4 +15,4 @@ git:
     * git add  文件名   将文件放到暂存区
     * git commit -m '说明' 将暂存区的文件提交到仓库
     * git log 查看提交记录
-    * git checkout 撤销提交
+    * git checkout 撤销提交  
