@@ -14,5 +14,5 @@
     * git status 查看文件状态
     * git add  文件名   将文件放到暂存区
     * git commit -m '说明' 将暂存区的文件提交到仓库
-    * git log 查看提交记录
+    * git log 查看提交记录  
     * git checkout 撤销提交  
